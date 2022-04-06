@@ -1,3 +1,11 @@
+### JS Test
+
+For any question of this document, we aren't waiting for a number or answer, but we are waiting for javascript functions.
+
+Make a git public repo or add @loiu92 to your private repos.
+
+#### Assuming we have a different array
+
 const employeeType = [
   { id: 1, name: "FullTime", work_begin: "09:00:00", work_end: "17:00:00" },
   { id: 2, name: "MidTime", work_begin: "12:00:00", work_end: "21:00:00" },
