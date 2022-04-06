@@ -1,3 +1,11 @@
+### JS Test
+
+For any question of this document, we aren't waiting for a number or answer, but we are waiting for javascript functions.
+
+Make a git public repo or add @loiu92 to your private repos.
+
+#### Assuming we have an array of factories
+
 const factories = [
   { name: "BR1", employees: ["John", "Alice", "Bob", "Jessie", "Karen"] },
   { name: "BR2", employees: ["Jessie", "Karen", "John"] },
